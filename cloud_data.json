@@ -1,63 +1,87 @@
 [
-
-   
-   {
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1631373736/wallpaper-data/Hot_girl_dhgwhf.jpg",
-"title": "gown"
-},
   {
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651461260/wallpaper-data/Sonia_Verma_vv2vh3.jpg",
-"title": "lahenga choli"
-},
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1631373736/wallpaper-data/Hot_girl_dhgwhf.jpg",
+    "title": "gown",
+    "category": "gown"
+  },
   {
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651461255/wallpaper-data/Sonia_Verma_._twevby.jpg",
-"title": "lahenga choli"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651461255/wallpaper-data/Sonia_Verma_2_o4ysjg.jpg",
-"title": "lahenga choli"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651461224/wallpaper-data/official_soniaverma_1_d6dpqc.jpg",
-"title": "gown"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651288641/wallpaper-data/Amyra_Dastur_._.279323227_1144528383028614_6347458838492245334_n_tgc7fi.jpg",
-"title": "skirt top"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651288637/wallpaper-data/Amyra_Dastur_._.20220430_081030_gtfhze.jpg",
-"title": "skirt top"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651203230/wallpaper-data/cute.pahadan.official_2__1_fgsihi.jpg",
-"title": "mini skirt top"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651203206/wallpaper-data/Cute_Pahadan_._.2_ltbgkr.jpg",
-"title": "mini skirt top"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651134189/wallpaper-data/Ameya_Mathew_.._.20220428_132333_xe6zuo.jpg",
-"title": "Gown"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651128878/wallpaper-data/Saanvi_Dhiman_7_vszyct.jpg",
-"title": "T shirt"
-},{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1651128876/wallpaper-data/Saanvi_Dhiman_4__1_oyjdx9.jpg",
-"title": "T shirt"
-},
-{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1644645978/wallpaper-data/20220208.jpg",
-"title": "Cosmic Drift"
-},
-{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1644645964/wallpaper-data/20220208_154255_ql5v6m.jpg",
-"title": "Neon Cityscape"
-},
-{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1644645882/wallpaper-data/20220208_154314_ceuctw.jpg",
-"title": "Saree"
-},
-{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1644642807/wallpaper-data/20220208_154618_cbvwnr.jpg",
-"title": "Lahenga "
-},
-{
-"url": "https://res.cloudinary.com/pic-share/image/upload/v1644642688/wallpaper-data/20220208_154627_dkh5rs.jpg",
-"title": "Arctic Lights"
-}
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651461260/wallpaper-data/Sonia_Verma_vv2vh3.jpg",
+    "title": "lahenga choli",
+    "category": "lahenga"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651461255/wallpaper-data/Sonia_Verma_._twevby.jpg",
+    "title": "lahenga choli",
+    "category": "lahenga"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651461255/wallpaper-data/Sonia_Verma_2_o4ysjg.jpg",
+    "title": "lahenga choli",
+    "category": "lahenga"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651461224/wallpaper-data/official_soniaverma_1_d6dpqc.jpg",
+    "title": "gown",
+    "category": "gown"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651288641/wallpaper-data/Amyra_Dastur_._.279323227_1144528383028614_6347458838492245334_n_tgc7fi.jpg",
+    "title": "skirt top",
+    "category": "skirt"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651288637/wallpaper-data/Amyra_Dastur_._.20220430_081030_gtfhze.jpg",
+    "title": "skirt top",
+    "category": "skirt"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651203230/wallpaper-data/cute.pahadan.official_2__1_fgsihi.jpg",
+    "title": "mini skirt top",
+    "category": "skirt"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651203206/wallpaper-data/Cute_Pahadan_._.2_ltbgkr.jpg",
+    "title": "mini skirt top",
+    "category": "skirt"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651134189/wallpaper-data/Ameya_Mathew_.._.20220428_132333_xe6zuo.jpg",
+    "title": "Gown",
+    "category": "gown"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651128878/wallpaper-data/Saanvi_Dhiman_7_vszyct.jpg",
+    "title": "T shirt",
+    "category": "tshirt"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1651128876/wallpaper-data/Saanvi_Dhiman_4__1_oyjdx9.jpg",
+    "title": "T shirt",
+    "category": "tshirt"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1644645978/wallpaper-data/20220208.jpg",
+    "title": "Cosmic Drift",
+    "category": "other"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1644645964/wallpaper-data/20220208_154255_ql5v6m.jpg",
+    "title": "Neon Cityscape",
+    "category": "other"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1644645882/wallpaper-data/20220208_154314_ceuctw.jpg",
+    "title": "Saree",
+    "category": "saree"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1644642807/wallpaper-data/20220208_154618_cbvwnr.jpg",
+    "title": "Lahenga ",
+    "category": "lahenga"
+  },
+  {
+    "url": "https://res.cloudinary.com/pic-share/image/upload/v1644642688/wallpaper-data/20220208_154627_dkh5rs.jpg",
+    "title": "Arctic Lights",
+    "category": "other"
+  }
 ]
