@@ -1,1 +1,23 @@
 
+[
+  {
+    "name": "Saree",
+    "query": "saree gown"
+  },
+  {
+    "name": "T-shirt",
+    "query": "tshirt"
+  },
+  {
+    "name": "Lahenga",
+    "query": "lahenga"
+  },
+  {
+    "name": "Skirt",
+    "query": "skirt"
+  },
+  {
+    "name": "Gown",
+    "query": "gown"
+  }
+]
