@@ -19,5 +19,9 @@
   {
     "name": "Gown",
     "query": "gown"
+  },
+  {
+    "name": "Shirt",
+    "query": "shirt"
   }
 ]
