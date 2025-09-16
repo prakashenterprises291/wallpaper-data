@@ -6,6 +6,10 @@
     "query": "all"
   },
   {
+    "name": "Top",
+    "query": "top"
+  },
+  {
     "name": "Saree",
     "query": "saree"
   },
