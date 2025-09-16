@@ -1,5 +1,10 @@
 
 [
+
+  {
+    "name": "All",
+    "query": "all"
+  },
   {
     "name": "Saree",
     "query": "saree"
