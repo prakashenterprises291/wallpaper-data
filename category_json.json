@@ -14,6 +14,10 @@
     "query": "saree"
   },
   {
+    "name": "Suit",
+    "query": "suit"
+  },
+  {
     "name": "T-shirt",
     "query": "tshirt"
   },
